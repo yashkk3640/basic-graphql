@@ -1,0 +1,18 @@
+{
+  "name": "basic-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yashkk3640",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.9.4",
+    "graphql": "^16.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
